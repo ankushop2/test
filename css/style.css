@@ -1,0 +1,29 @@
+body {
+    font-family: 'Open Sans';
+}
+
+.parallax-container {
+  height: 600px;
+}
+
+.parallax img {
+ 	width: 100%;
+}
+p {
+    font-family: 'Oxygen';font-size: 22px;
+}
+#headtext {
+    font-family: 'Lato';
+}
+section {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#navtext{
+	font-family: 'Megrim';
+}
+
+#starttext {
+    font-family: 'Annie Use Your Telescope';
+}
